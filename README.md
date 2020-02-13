@@ -1,4 +1,7 @@
-# Session 9 - mini ETL
+# Session 9 
+
+
+# Exercises - mini ETL
 
 In this exercises we want to create a simple process that reads data from a
 source (a CSV file in our case), does some transformations to that data, and
